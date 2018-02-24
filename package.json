@@ -11,15 +11,22 @@
   },
   "license": "MIT",
   "author": "Diego Miguel <digznav@gmail.com> (https://github.com/Digznav)",
+  "files": [
+    "generators"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Digznav/generator-tree-root.git"
   },
   "scripts": {
+    "bump": "bilberry bump",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "yeoman-generator": "^2.0.3"
+  },
+  "devDependencies": {
+    "bilberry": "^0.3.0"
   }
 }
