@@ -1,0 +1,25 @@
+{
+  "name": "generator-tree-root",
+  "version": "0.0.0",
+  "description": "Folder structure generator",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/Digznav/generator-tree-root#readme",
+  "bugs": {
+    "url": "https://github.com/Digznav/generator-tree-root/issues"
+  },
+  "license": "MIT",
+  "author": "Diego Miguel <digznav@gmail.com> (https://github.com/Digznav)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digznav/generator-tree-root.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^2.0.3"
+  }
+}
