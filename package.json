@@ -21,6 +21,7 @@
   },
   "scripts": {
     "bump": "bilberry bump",
+    "js.format": "prettier --single-quote --print-width=120 -parse=flow --write \"**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

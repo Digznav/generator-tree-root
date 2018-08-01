@@ -4,8 +4,7 @@
 ### Basic
 
 ```
-/
-├── changelog/
+./
 ├── tools/
 ├── .editorconfig
 
